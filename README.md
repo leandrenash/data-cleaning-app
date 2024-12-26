@@ -1,5 +1,8 @@
 # Data Cleaning and Processing Application
 
+<img width="848" alt="Screenshot 2024-12-26 at 10 33 29" src="https://github.com/user-attachments/assets/86eac8b8-7650-4889-923e-96275595d6b9" />
+
+
 An interactive web application built with Streamlit that simplifies data cleaning and processing tasks. This application provides an intuitive interface for users to upload, analyze, validate, and clean their datasets with minimal technical expertise required.
 
 ## Features
